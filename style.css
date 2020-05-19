@@ -1,7 +1,22 @@
-img {
-  margin-left: 0px; }
+.header {
+  background-color: red;
+  display: flex;
+  flex-direction: row; }
 
-ul {
-  list-style-type: none; }
+.fahne {
+  width: 64px;
+  height: auto; }
+
+.center {
+  background-color: white; }
+
+.bottom {
+  background-color: red; }
+
+li {
+  display: inline; }
+
+.navigation {
+  text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
